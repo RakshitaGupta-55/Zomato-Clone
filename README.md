@@ -40,7 +40,7 @@ Zomato-Clone/
 1. Clone the repository:
 
    ```
-   git clone https://github.com/your-username/zomato-clone.git
+   git clone https://github.com/RakshitaGupta-55/zomato-clone.git
    ```
 
 2. Navigate to the project folder:
